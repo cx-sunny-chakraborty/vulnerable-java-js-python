@@ -3,5 +3,5 @@ checkmarx:
   scan:
     configs:
       sast:
-        languageMode: 'multi'
+        languageMode: 'primary'
         recommendedExclusions: 'false'
