@@ -5,3 +5,4 @@ checkmarx:
       sast:
         languageMode: 'multi'
         recommendedExclusions: 'false'
+        engineVerbose : 'true'
